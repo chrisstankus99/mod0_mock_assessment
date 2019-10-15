@@ -1,0 +1,27 @@
+Object: Office Chair
+
+Attributes:
+totalHeight: 45 in.
+color: black
+chairType: rolling
+weight: 15 pounds
+currentHeight: 40 in.
+
+upChair: 40 + 5 = 45in
+downChair: 40 - 5 = 35in
+changeColor: color = grey
+useChair: 15 + 150 = 165 pounds
+
+Object: Drum Chair
+
+Attributes:
+totalHeight: 30 in.
+color: black
+chairType: drum chair
+weight: 5 pounds
+currentHeight: 25 in.
+
+upChair: 25 + 5 = 45in
+downChair: 25 - 5 = 35in
+changeColor: color = grey
+useChair: 5 + 150 = 155 pounds
