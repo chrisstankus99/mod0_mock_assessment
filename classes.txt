@@ -1,0 +1,15 @@
+Class: Chair
+
+Attributes:
+totalHeight(integer)
+color(string)
+chairType(string)
+weight(integer)
+currentHeight(integer)
+
+
+Methods:
+upChair(add to the currentHeight)
+downChair(subtract to the currentHeight)
+changeColor (changes the color)
+useChair(adds to the weight attribute)
