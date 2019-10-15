@@ -1,0 +1,35 @@
+1. Make sandwich
+ 1.1 Gather Ingredients
+  1.1.1 Get a plate
+    1.1.1.1 go the the dish cabinet
+    1.1.1.2 grab a plate
+    1.1.1.3 put plate on counter
+  1.1.2 Get bread
+    1.1.2.1 go to the pantry
+    1.1.2.2 open the door
+    1.1.2.3 grab the bread
+    1.1.2.4 leave the pantry
+    1.1.2.5 close the door
+    1.1.2.6 walk to the plate
+    1.1.2.7 put bread on the plate
+  1.1.3 Add meat
+    1.1.3.1 go to the refrigerator
+    1.1.3.2 open the refrigerator
+    1.1.3.3 open the meat drawer
+    1.1.3.4 grab the meat
+    1.1.3.5 close the drawer
+    1.1.3.6 close the refrigerator
+    1.1.3.7 walk to the plate
+    1.1.3.8 add the meat to the bread
+  1.1.4 Add cheese
+    1.1.4.1 go to the refrigerator
+    1.1.4.2 open the refrigerator
+    1.1.4.3 open the cheese drawer
+    1.1.4.4 grab the cheese
+    1.1.4.5 close the drawer
+    1.1.4.6 close the refrigerator
+    1.1.4.7 walk to the plate
+    1.1.4.8 put the cheese on the meat
+  1.2 Put it together
+    1.2.1 put the pieces of bread together
+    1.2.2 enjoy your sandwich
